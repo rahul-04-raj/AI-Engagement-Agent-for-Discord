@@ -30,6 +30,6 @@ An AI-powered engagement bot for Discord that uses LLaMA 4 Scout (via Groq API) 
 - Maintains conversation flow with context-aware replies
 - Image search integration  
 - Member status tracking  
-- Analytics dashboard in progress
+- Analytics Overview
 
 ---
